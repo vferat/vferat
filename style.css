@@ -35,3 +35,31 @@
   color: #FBEFF2;
   font-size: 29px;
 }
+
+.img-circle {
+    border-radius: 50%;
+}
+
+p{
+    display: inline;
+}
+
+/* unvisited link */
+a:link {
+ color: green;
+}
+
+/* visited link */
+a:visited {
+ color: green;
+}
+
+/* mouse over link */
+a:hover {
+ color: hotpink;
+}
+
+/* selected link */
+a:active {
+ color: blue;
+}
