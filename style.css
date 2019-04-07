@@ -46,6 +46,23 @@ p{
 }
 
 /* unvisited link */
+a:hover {
+ color: none;
+ text-decoration: none;
+}
+a:link {
+ color: none;
+ text-decoration: none;
+}
+a:visited {
+ color: none;
+ text-decoration: none;
+}
+a:active {
+ color: none;
+ text-decoration: none;
+}
+
 a.text:link {
  color: #CC4941;
  text-decoration: none;
@@ -55,7 +72,7 @@ a.text:visited {
  text-decoration: none;
 }
 a.text:hover {
- color: #CC4941;
+ color: #FF7C54;
  text-decoration: none;
 }
 a.text:active {
