@@ -29,6 +29,7 @@
 
 .sidenav_subtitle:hover {
   color:#E0F8E0;
+  text-decoration: none;
 }
 
 .sidenav_name {
@@ -45,21 +46,19 @@ p{
 }
 
 /* unvisited link */
-a:link {
- color: green;
+a.text:link {
+ color: #CC4941;
+ text-decoration: none;
 }
-
-/* visited link */
-a:visited {
- color: green;
+a.text:visited {
+ color: #CC4941;
+ text-decoration: none;
 }
-
-/* mouse over link */
-a:hover {
- color: hotpink;
+a.text:hover {
+ color: #CC4941;
+ text-decoration: none;
 }
-
-/* selected link */
-a:active {
- color: blue;
+a.text:active {
+ color: #CC4941;
+ text-decoration: none;
 }
