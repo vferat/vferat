@@ -1,0 +1,6 @@
+#footer {
+  margin-left: 350px;
+  transition: margin-left .5s;
+  padding: 20px;
+  padding-top: 50px;
+}
