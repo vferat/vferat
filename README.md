@@ -1,2 +1,4 @@
 # vferat.github.io
-victor Férat Portfolio
+Victor Férat Portfolio
+
+Custom Template using Jekyll
