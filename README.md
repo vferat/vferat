@@ -13,4 +13,4 @@
 
 🏡 To learn more about me : [https://vferat.github.io/about.html](https://vferat.github.io/about.html)
 
-📫 Contact: <victor.ferat@unige.ch>
+📫 Contact: <victor.ferat@fcbg.ch>
