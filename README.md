@@ -7,10 +7,6 @@
 
 -------------------
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vferat&show_icons=true&theme=transparent" />
-
-
 🏡 To learn more about me : [https://vferat.github.io/about.html](https://vferat.github.io/about.html)
 
 📫 Contact: <victor.ferat@fcbg.ch>
